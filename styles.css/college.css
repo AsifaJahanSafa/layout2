@@ -26,6 +26,11 @@ img{
     gap:5px
 }
 
+header{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+}
 @media screen and (max-width:576px){
     .row{
         flex-direction: column;
